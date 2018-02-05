@@ -1,4 +1,4 @@
-'''NNIST classifier'''
+'''MNIST Classification'''
 
 import keras
 from keras.layers import Convolution2D
