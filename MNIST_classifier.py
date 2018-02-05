@@ -18,7 +18,6 @@ import matplotlib.pyplot as plt
 # Data reading
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
 
-
 # Sample Image
 img = Image.fromarray(x_train[6], mode = None)
 img.show()
