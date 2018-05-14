@@ -1,3 +1,3 @@
 # Keras-Examples
 
-In this repository you will find some Python codes using the Keras module for Deep Learning. 
+In this repository you will find some examples using the Keras module for Deep Learning. 
