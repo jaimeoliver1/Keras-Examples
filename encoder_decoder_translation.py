@@ -41,7 +41,6 @@ http://www.manythings.org/anki/
     https://arxiv.org/abs/1406.1078
 '''
 from __future__ import print_function
-
 from keras.models import Model
 from keras.layers import Input, LSTM, Dense
 import numpy as np

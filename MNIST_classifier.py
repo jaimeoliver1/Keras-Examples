@@ -1,4 +1,5 @@
-'''MNIST Classification'''
+''' MNIST Classification '''
+''' CNN example for the MNIST dataset (http://yann.lecun.com/exdb/mnist/) '''
 
 import keras
 from keras.layers import Convolution2D
